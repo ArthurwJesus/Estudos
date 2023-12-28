@@ -1,0 +1,25 @@
+Golang possui os tipos padrões porem possui algumas modificações por exemplo o int possuir varianças como por exemplo
+int8, int16,int32, int64 a diferença é o tanto de bytes que é suportado
+
+uint é um int sem sinal ou seja só valores positivos
+
+alguns tipos possuem alias quando se trabalhado com tabelas
+int32 = Rune
+uint8 = byte
+
+O float tbm possui varianças e deve ser sempre separado com . por exemplo
+float32 e float64
+
+String podem ser declaradas como var ou com inferencia
+
+Bool pode ser só true ou false
+
+todo tipo de dado no Go possui um valor inicial ou seja se deixarmos as variaveis sem valor dessa forma:
+
+var variavel string | var variavel int32 | var variavel flaot32 | var variavel bool | var variavel error
+
+elas ganharam o valor padrão do GO
+
+
+
+PODEMOS USAR A INFERENCIA EM TUDO ( := )

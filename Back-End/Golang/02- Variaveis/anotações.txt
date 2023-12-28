@@ -1,0 +1,10 @@
+Existem 2 formas de declarar uma variavel em golang uma passamos todas as informações inslusive o tipo e na outra escondemos quase tudo, dentro do codigo temos os dois tipos
+
+`texto1` possui a declaração completa
+`texto2` possui a declaração simplificada pois o tipo dela será definido pelo o que for passado para a mesma
+
+' := ' -> inferencia de tipo
+
+Podemos também definir N variaveis do mesmo tipo um unica vez como mostra o exemplo `texto3` e `texto4` ou `texto5` e `texto6`
+
+Podemos trocar os valores das variaveis sem precisar de uma auxiliar o exemplo com comentários demonstra isso, está é uma funcionalidade "exlcusiva" do GO!

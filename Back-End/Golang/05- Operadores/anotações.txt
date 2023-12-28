@@ -1,0 +1,4 @@
+Golang assim como outras linguagens de programação possui
+Operadores Aritméticos e que só podem ser utilizados se forem do mesmo tipo, ou seja, int32 com int32 e etc...
+Operadores de atribuição possuem duas formas de ser usadas da forma padrão onde passamos o tipo e o valor e a outra usando a inferencia de tipo que o valor passado ditará os tipo
+Operadores Relacionais sempre retornam true ou false

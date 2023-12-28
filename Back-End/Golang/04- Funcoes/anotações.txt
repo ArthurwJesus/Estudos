@@ -1,0 +1,2 @@
+Funções em Go podem ser criadas de diferentes formas todas elas estão presente no código como exemplo
+Funções em Go podem ter mais de um retorno

@@ -1,0 +1,17 @@
+Quando lidamos com pacotes em Go precisamos criar um módulo
+
+Módulo é um conjunto de pacotes que são utilizados na aplicação (os criados por você mesmo, os pacotes do Go e os pacotes do Github),a ideia é que ele compile todo esse códgio em um lugar só
+
+~Semelhante ao packet.json
+
+Para isso iremos acessar a pasta e digitar o seguinte comando `go mod init NOMEDOMODULO`
+
+Depois que criamos um pacote ou adicionamos um novo devemos utilizar o comando `go mod tidy` para sincronizar todos os pacotes em um lugar só
+
+Funções com o inicio em MAIUSCULO são publicas e minusculos são privados
+
+Conseguimos fazer com que dentro de um pacote tenhamos um arquivo que chama todas as funções privadas e retorna para o main este é o caso do auxiliarPiv que que contem uma função de escrita e que só pode ser chamado dentro da auxiliar que consequentemente é chamado pela main
+
+Como mensionado anterioremnte podemos utilizar pacotes publicos do Github e para isso temos que adicionar o mesmo no projeto e para isso usamos `go get github.com`,agora só importamos e utilizamos o mesmo
+
+Podemos utilizzar o `go build` para compilar o projeto e rodamos o compilado com ./NOMEDABUILD
