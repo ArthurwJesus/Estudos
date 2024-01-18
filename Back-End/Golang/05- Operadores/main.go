@@ -26,4 +26,25 @@ func main() {
 	fmt.Println("difrente de: ", 1 != 2)
 
 	//LÓGICOS
+	fmt.Println("And: True && False", true && false)
+	fmt.Println("Ou: true || false", true || false)
+	fmt.Println("Inversão: !true", !true)
+
+	//Unários
+	num := 10
+	num++ // Ou num += VALOR DESEJADO
+	fmt.Println("Num++: ", num)
+
+	num-- // Ou num -=VALOR DESEJADO
+	fmt.Println("Num--: ", num)
+
+	num *= 3
+	fmt.Println("Num *=3: ", num)
+
+	num /= 2
+	fmt.Println("Num/=2: ", num)
+
+	num %= 3
+	fmt.Println("Num %=2: ", num)
+
 }

@@ -1,0 +1,1 @@
+Maps é uma das maneiras de se guardar dados, possui diferença das structs principalmente por ser chave e valor mais rígio e não pode ser mutavel.

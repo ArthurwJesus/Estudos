@@ -1,0 +1,2 @@
+Variavel que salva o valor do endereço de memoria de algo
+Utilizado quando precisamos usar o mesmo valor para N situações e assim conseguimos passar a referencia da memoria para qualquer outra variavel

@@ -1,0 +1,2 @@
+Golang não possui Heranças mas existe uma forma "parecida "de trabalhar com esse tipo de estrutura, antes vimos que quando passamos uma struct para dentro da outra
+a estruct ganha os atributos da mesma porem passavamos o nome o tipo, para trabalharmos com a herança passamos apenas o nome da struct.

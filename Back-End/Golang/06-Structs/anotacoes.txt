@@ -1,0 +1,3 @@
+Golang não possui classes mas possui Structs que são quase semelhantes que serve para o mesmo fim das classes de outras linguagens.
+Struct é uma coleção de campos, cada campo possui nome e tipo e pode possuir outra struct dentro de uma struct, quando fizemos isso estamos dizendo que aquela struct
+tera um campo com aquele nome que iraá possuir todos os campos da outra struct

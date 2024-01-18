@@ -1,0 +1,2 @@
+Funções variaticas são funções que recebem N parametros do mesmo tipo, recebem no caso um slice.
+Não podemos ter mais um valor variatico por função e sempre deve ser o utlimo.

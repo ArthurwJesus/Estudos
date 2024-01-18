@@ -1,0 +1,4 @@
+Retorno nomeado irá retornar uma varivel, passamos o tipo da variavel e o nome
+Dentro da main quando formos chamar a função passamos X valores(valores no caso que são o numero de retornos de variaveis da função)
+
+São funções mais limpas e claras de serem vistas.

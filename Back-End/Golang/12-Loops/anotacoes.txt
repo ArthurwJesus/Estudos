@@ -1,0 +1,2 @@
+Loops em Go são basicamente e exclusiavamente o For,podemos utilizar o for range também.
+O for pode ser usado em slices e arrays,palavras e map dentro de structs não conseguimos utilizar o mesmo.

@@ -1,0 +1,2 @@
+Defer em Go é uma clausula que adia um determinado treco de código, ou seja, assim que tudo o que esta no escopo que o defer
+for concluido acabar ele volta e realizado o que se tem no defer

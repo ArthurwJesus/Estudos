@@ -1,4 +1,15 @@
 Golang assim como outras linguagens de programação possui
+
 Operadores Aritméticos e que só podem ser utilizados se forem do mesmo tipo, ou seja, int32 com int32 e etc...
+
 Operadores de atribuição possuem duas formas de ser usadas da forma padrão onde passamos o tipo e o valor e a outra usando a inferencia de tipo que o valor passado ditará os tipo
-Operadores Relacionais sempre retornam true ou false
+
+Operadores Relacionais sempre retornam true ou false,
+
+Operadores Lógicos por sua vez seguem o padrão ja existente (and,or, negação)
+
+Operadores unários interagem com uma variavel por vez, utilziado para incrementar variavel, apenas + e - possuem simplificações pŕe fixados (a++ ou a-- ),
+outros operadores necessitam da  pós fixada que segue  seguinte estrutura a{operador}={Valor} (+ e - utilizam o mesmoa quando queremos passar um valor para incrementação).Ex a*=1
+
+Golang não possui operadores ternários pois o go tende a trabalhar apenas como uma forma de fazer cada coisa, claro que pode vir a assitir exceções.
+

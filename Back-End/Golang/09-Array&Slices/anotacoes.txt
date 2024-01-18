@@ -1,0 +1,3 @@
+Arrays são uma lista de valores com tamanhos fixos.
+Slices não possuem tamanho fixo, ele sempre vai suportar e ter o tamanho dinamico mas o tipo precisa ser passado.
+Quando o slice acaba estourando a sua capacidade maxima estipulado o GO cria outro Array para referenciar e dobra o tamanho do slice

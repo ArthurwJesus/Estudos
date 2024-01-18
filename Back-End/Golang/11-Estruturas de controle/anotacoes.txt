@@ -1,0 +1,8 @@
+Estrutura de controle são estruturas de avaliação, ou seja, verificam se uma condição pe verdadeira e com isso fazem algo esperado senão irão fazer outra coisa
+Golang não aceita if sem { }.
+Podemos iniciar uma variavel dentro do IF porém não podemos acessar a mesma fora do bloco de controle IF
+
+Switch em Go é utilizada quando se possui muitas condições para serem avaliadas, podemos utilizar duas formas para escrever o switch uma é passando
+o valor como parametro e outra é utilizando o valor apenas dentro do case e fazendo a verificação da mesma.Não precisamos usar Break dentro do switch
+O GO possui uma clausula chamada  `fallthrough` que faz com que seja executada a proxima condição ou seja ele pode entrar na condição 1 mas o que será retornado é a condição 2
+

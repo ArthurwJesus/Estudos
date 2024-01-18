@@ -1,0 +1,1 @@
+Funções anonimas,são basicmanete funções sem nomes e que são chamadas apos serem declaradas e pode ou não armazenar o valor em uma varaivel
